@@ -5,3 +5,4 @@ Un blog del curso de git y github de platzi
 Aqui es para practicar el readme.md
 * ola
 * Creado por el increible pablo
+* Incluye ejempolos en windows
